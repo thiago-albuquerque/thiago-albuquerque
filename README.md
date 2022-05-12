@@ -28,3 +28,5 @@ Iniciante na área de programação, atualmente me dedico ao estudo do desenvolv
 - [Blog Portfolio](https://blog-meuportfolio.vercel.app/)<br/>
 
 - [Electric Car Retails (Locação de carros elétricos)](https://electric-car-rentals.vercel.app/)<br/>
+
+- [Cinemando](https://cinemando-trailer.netlify.app/)<br/>
