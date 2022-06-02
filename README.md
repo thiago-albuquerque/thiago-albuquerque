@@ -27,7 +27,7 @@ Iniciante na área de programação, atualmente me dedico ao estudo do desenvolv
 
 - [Blog Portfolio](https://blog-meuportfolio.vercel.app/)<br/>
 
-- [Travel](https://travelhotel.vercel.app/))<br/>
+- [Travel](https://travelhotel.vercel.app/)<br/>
 
 - [Cinemando](https://cinemando-trailer.netlify.app/)<br/>
 
