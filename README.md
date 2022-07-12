@@ -2,6 +2,7 @@
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-albuquerque-23a838222)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/garotoqprograma/?hl=pt-br)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog-meuportfolio.vercel.app/)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-albuquerque&show_icons=true&theme=dracula)
 
