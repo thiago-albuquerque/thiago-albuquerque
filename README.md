@@ -34,4 +34,6 @@ Iniciante na área de programação, atualmente me dedico ao estudo do desenvolv
 
 - [Electric Car Retails (Locação de carros elétricos)](https://electric-car-rentals.vercel.app/)<br/>
 
+- [Minhas Tarefas](https://minhastarefass.vercel.app/)<br/> 
+
 
