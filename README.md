@@ -19,12 +19,20 @@
     />
     <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'
     />
+    <img align='center' alt='reactnative' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'
+    />
+    <img align='center' alt='reactnative' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'
+    />
+    <img align='center' alt='reactnative' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'
+    />
+    <img align='center' alt='reactnative' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'
+    />
     
 </div></br>
 
 Iniciante na área de programação, atualmente me dedico ao estudo do desenvolvimento Front-End.
 
-## Meus projetos:
+## Links para projetos WEB em produção:
 
 - [Blog Portfolio](https://blog-meuportfolio.vercel.app/)<br/>
 
