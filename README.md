@@ -1,4 +1,4 @@
-##👋 Me chamo Thiago
+## Me chamo Thiago 👋
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-albuquerque-23a838222)
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog-meuportfolio.vercel.app/)
