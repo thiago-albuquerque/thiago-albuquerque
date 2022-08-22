@@ -35,7 +35,7 @@
 
 - [Travel](https://travelhotel.vercel.app/)<br/>
 
-- [Cinemando](https://cinemando-trailer.netlify.app/)<br/>
+- [Cinemando Web](https://cinemando-trailer.netlify.app/)<br/>
 
 - [Electric Car Retails (Locação de carros elétricos)](https://electric-car-rentals.vercel.app/)<br/>
 
