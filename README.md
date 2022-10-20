@@ -33,12 +33,16 @@
 
 - [Blog Portfolio](https://blog-meuportfolio.vercel.app/)<br/>
 
+- [Cinemando Web](https://cinemando-trailer.netlify.app/)<br/>
+
+- [PokeNext](https://pokenext-lac.vercel.app/)<br/>
+
 - [Travel](https://travelhotel.vercel.app/)<br/>
 
-- [Cinemando Web](https://cinemando-trailer.netlify.app/)<br/>
+- [Minhas Tarefas](https://minhastarefass.vercel.app/)<br/> 
 
 - [Electric Car Retails (Locação de carros elétricos)](https://electric-car-rentals.vercel.app/)<br/>
 
-- [Minhas Tarefas](https://minhastarefass.vercel.app/)<br/> 
+
 
 
