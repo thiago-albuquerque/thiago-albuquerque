@@ -1,47 +1,37 @@
-## Me chamo Thiago 👋
+## Bem vindo! 👋
+</h1>
+<p>
+Me chamo Thiago e sou um DESENVOLVEDOR MOBILE HÍBRIDO, mas também possuo conhecimentos em desenvolvimento web.    
+</p>
+
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-albuquerque-23a838222)
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog-meuportfolio.vercel.app/)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-albuquerque&show_icons=true&theme=dracula)
 
+</b>
 
-
-### Tecnologias que utilizo:
+### Principais tecnologias que utilizo: 👨‍💻
 
 <div style='display: inline_block'></b>
-    <img align='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'
-    />
-    <img align='center' alt='css3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'
-    />
-    <img align='center' alt='sass' src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'
-    />
-    <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'
+    <img align='center' alt='Typescript' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'
     />
     <img align='center' alt='reactnative' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'
     />
-    <img align='center' alt='reactnative' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'
+    <img align='center' alt='react' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'
+    />    
+    <img align='center' alt='styled components' src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white'
     />
-    <img align='center' alt='reactnative' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'
+    <img align='center' alt='git' src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'
     />
-    <img align='center' alt='reactnative' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'
+    <img align='center' alt='figma' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'
     />
-    
+    <img align='center' alt='visual studio' src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'
+    />
 </div></br>
 
-## Links para projetos WEB em produção:
 
-- [Blog Portfolio](https://blog-meuportfolio.vercel.app/)<br/>
-
-- [Cinemando Web](https://cinemando-trailer.netlify.app/)<br/>
-
-- [PokeNext](https://pokenext-lac.vercel.app/)<br/>
-
-- [Travel](https://travelhotel.vercel.app/)<br/>
-
-- [Minhas Tarefas](https://minhastarefass.vercel.app/)<br/> 
-
-- [Electric Car Retails (Locação de carros elétricos)](https://electric-car-rentals.vercel.app/)<br/>
 
 
 
