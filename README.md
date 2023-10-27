@@ -5,7 +5,7 @@
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-albuquerque&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-albuquerque)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias que utilizo:
 
