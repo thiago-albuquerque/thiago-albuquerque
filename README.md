@@ -1,7 +1,7 @@
 ## Bem vindo! 👋
 </h1>
 <p>
-Me chamo Thiago e sou um DESENVOLVEDOR MOBILE HÍBRIDO, mas também possuo conhecimentos em desenvolvimento web.    
+Me chamo Thiago e sou um DESENVOLVEDOR MOBILE, mas também possuo conhecimentos em desenvolvimento web.    
 </p>
 
 
