@@ -6,7 +6,7 @@ Me chamo Thiago e sou um DESENVOLVEDOR MOBILE, mas também possuo conhecimentos 
 
 
 [![LinkeIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-albuquerque-23a838222)
-[![Blog](https://blogportfoliothiago.blogspot.com/)
+[![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blogportfoliothiago.blogspot.com/)
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiago-albuquerque&show_icons=true&theme=dracula)
 
