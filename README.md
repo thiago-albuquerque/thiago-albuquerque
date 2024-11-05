@@ -6,7 +6,6 @@
 * SQL Server Management Studio </br>
 * DAX </br>
 * Power BI </br>
-* Python </br>
 * Javascript </br>
 * React Native </br>
 * React </br>
