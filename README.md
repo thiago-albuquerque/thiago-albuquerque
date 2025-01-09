@@ -2,10 +2,14 @@
 ## 👨‍💻 Analista de Dados e Desenvolvedor de Software
 
 ### 🛠 Tecnologias que utilizo:
+* Typescript </br>
 * Javascript </br>
 * React Native </br>
-* React </br>
+* React JS </br>
+* Design System </br>
+* Shopify Restyle </br>
 * Styled-Components </br>
+* Tailwind CSS </br>
 * Git </br>
 * Github </br>
 * VSCode </br>
