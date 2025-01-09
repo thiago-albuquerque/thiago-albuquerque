@@ -9,7 +9,6 @@
 * Design System </br>
 * Shopify Restyle </br>
 * Styled-Components </br>
-* Tailwind CSS </br>
 * Git </br>
 * Github </br>
 * VSCode </br>
