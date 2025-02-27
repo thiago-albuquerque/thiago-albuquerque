@@ -2,6 +2,11 @@
 ## 👨‍💻 Analista de Dados e Desenvolvedor de Software
 
 ### 🛠 Tecnologias que utilizo:
+
+* SQL </br>
+* SQL Server Management Studio </br>
+* DAX </br>
+* Power BI </br>
 * Typescript </br>
 * Javascript </br>
 * React Native </br>
@@ -13,10 +18,6 @@
 * Github </br>
 * VSCode </br>
 * Figma
-* SQL </br>
-* SQL Server Management Studio </br>
-* DAX </br>
-* Power BI </br>
 
 
 
