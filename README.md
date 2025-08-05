@@ -1,5 +1,5 @@
 ### Olá! Me chamo Thiago. 👋
-## 👨‍💻 Analista de Dados e Desenvolvedor de Software
+## 👨‍💻 Analista de Dados | Analista de BI
 
 ### 🛠 Tecnologias que utilizo:
 
