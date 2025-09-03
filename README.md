@@ -9,6 +9,7 @@
 * Power Query </br>
 * Power BI </br>
 * Python </br>
+* Excel <br/>
 * Typescript </br>
 * Javascript </br>
 * React Native </br>
