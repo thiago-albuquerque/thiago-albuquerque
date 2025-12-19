@@ -1,5 +1,5 @@
 ### Olá! Me chamo Thiago. 👋
-## 👨‍💻 Analista de Dados | Analista de BI
+## 👨‍💻 Analista de Dados | Analista de BI | UX/UI Designer
 
 ### 🛠 Tecnologias que utilizo:
 
