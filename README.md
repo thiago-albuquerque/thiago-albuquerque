@@ -1,26 +1,33 @@
 ### Olá! Me chamo Thiago. 👋
-## 👨‍💻 Analista de Dados | Analista de BI | UX/UI Designer
+## 👨‍💻 Analista de Dados | Analista de BI | UX/UI Designer | Desenvolvedor de Software
 
-### 🛠 Tecnologias que utilizo:
+### 🛠 Principais habilidades:
 
-* SQL </br>
-* SQL Server Management Studio </br>
-* DAX </br>
-* Power Query </br>
-* Power BI </br>
-* Python </br>
-* Excel <br/>
-* Typescript </br>
-* Javascript </br>
-* React Native </br>
-* React JS </br>
-* Design System </br>
-* Shopify Restyle </br>
-* Styled-Components </br>
-* Git </br>
-* Github </br>
-* VSCode </br>
-* Figma
+📊 **Análise de Dados**
+
+- SQL
+- Power BI
+- Análise exploratória
+- Visualização de dados
+- Geração de insights para negócio
+
+**🧠🎨 UX/UI Design:** 
+
+- Pesquisa de usuários
+- Arquitetura da informação
+- Métricas de usabilidade
+- Análise de comportamento
+- Design Responsivo
+- Design System, Telas Hi-fi
+- Prototipação funcional
+- Documentação
+- Handoff
+
+**🛠 Desenvolvimento de Software:** 
+
+- Fundamentos de programação
+- Leitura técnica de requisitos
+- Comunicação com times de desenvolvimento
 
 
 
