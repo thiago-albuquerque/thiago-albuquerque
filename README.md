@@ -1,5 +1,8 @@
-### Olá! Me chamo Thiago. 👋
-## 👨‍💻 Analista de Dados | Analista de BI | UX/UI Designer | Desenvolvedor de Software
+# 👨‍💻 Analista de Dados | Analista de BI | UX/UI Designer | Desenvolvedor de Software
+
+## Transformo dados em decisões estratégicas para produtos e negócios.
+
+Atuo com análise, visualização e interpretação de dados, conectando métricas a comportamento de usuários e objetivos estratégicos. Possuo background em UX/UI Design, o que me permite estruturar análises e visualizações claras, focadas na compreensão e no uso efetivo das informações por stakeholders.
 
 ### 🛠 Principais habilidades:
 
