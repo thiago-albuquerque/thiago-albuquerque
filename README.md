@@ -1,4 +1,4 @@
-# 👨‍💻 Analista de Dados | Analista de BI | UX/UI Designer | Desenvolvedor de Software
+# Analista de Dados | BI & Data Visualization | SQL • Power BI
 
 ## Transformo dados em decisões estratégicas para produtos e negócios.
 
